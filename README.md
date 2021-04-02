@@ -1,4 +1,4 @@
-# Guess Number App 
+# Guess Number Mobile App 
 
 To view:
 Make sure to download "Expo Go" app on your phone, scan the QR code from the link provided below:
